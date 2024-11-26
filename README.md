@@ -15,14 +15,22 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
+<<<<<<< HEAD
 git remote add origin https://gitlab.com/daniil/CV.git
+=======
+git remote add origin https://gitlab.com/daniil/cv.git
+>>>>>>> d1f7607b966becd80227b693083d7e36006426c6
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
+<<<<<<< HEAD
 - [ ] [Set up project integrations](https://gitlab.com/daniil/CV/-/settings/integrations)
+=======
+- [ ] [Set up project integrations](https://gitlab.com/daniil/cv/-/settings/integrations)
+>>>>>>> d1f7607b966becd80227b693083d7e36006426c6
 
 ## Collaborate with your team
 
